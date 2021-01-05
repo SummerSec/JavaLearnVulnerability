@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.unbescape:unbescape:1.1.6.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

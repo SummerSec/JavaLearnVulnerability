@@ -1,0 +1,1 @@
+将tail.zip中的tail.exe解压到C:\Windows\System32\

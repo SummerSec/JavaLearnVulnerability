@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.owasp.encoder:encoder:1.2.2">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/owasp/encoder/encoder/1.2.2/encoder-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/owasp/encoder/encoder/1.2.2/encoder-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.6.2/maven-repository/org/owasp/encoder/encoder/1.2.2/encoder-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
