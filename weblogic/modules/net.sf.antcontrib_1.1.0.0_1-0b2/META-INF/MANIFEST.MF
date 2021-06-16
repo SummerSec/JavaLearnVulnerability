@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: R28.0.0-655-127792-1.6.0_17-20100126-2120-windows-ia32 (Or
+ acle Corporation)
+Implementation-Vendor: BEA Systems
+Implementation-Title: Ant Contrib Distribution 1.1 Sat Feb 13 08:52:27
+  PST 2010 
+Implementation-Version: 1.1.0.0_1-0b2
+Source-Repository-Change-Id: 1301982
+Source-Repository-URI: p4://p4jrep.us.oracle.com:7999://depot/dev/src1
+ 033/repository/modules
+Depends-On: 
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: net.sf.antcontrib
+Bundle-Name: net.sf.antcontrib
+Bundle-Vendor: BEA Systems
+Bundle-Version: 1.1.0.0_1-0b2
+

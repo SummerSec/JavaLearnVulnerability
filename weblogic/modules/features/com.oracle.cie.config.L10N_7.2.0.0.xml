@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.cie.config.L10N" version="7.2.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <and>
+      <feature id="com.oracle.cie.config.ja"/>
+      <feature id="com.oracle.cie.config.ko"/>
+      <feature id="com.oracle.cie.config.zh.CN"/>
+      <feature id="com.oracle.cie.config.zh.TW"/>
+      <feature id="com.oracle.cie.config.de"/>
+      <feature id="com.oracle.cie.config.es"/>
+      <feature id="com.oracle.cie.config.fr"/>
+      <feature id="com.oracle.cie.config.it"/>
+      <feature id="com.oracle.cie.config.pt.BR"/>
+    </and>
+  </requires>
+</feature-definition>

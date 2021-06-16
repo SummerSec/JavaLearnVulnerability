@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.uninstall.launch" version="6.2.0.0" isUninstallable="false" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <feature id="com.bea.cie.uninstall"/>
+  </requires>
+  <extension id="com.bea.cie.gpr.extftr.default" version="6.2.0.0" type="uninstall"/>
+</feature-definition>

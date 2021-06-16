@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.common-plugin.L10N" version="2.5.1.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <and>
+      <feature id="com.bea.cie.common-plugin.de"/>
+      <feature id="com.bea.cie.common-plugin.es"/>
+      <feature id="com.bea.cie.common-plugin.fr"/>
+      <feature id="com.bea.cie.common-plugin.it"/>
+      <feature id="com.bea.cie.common-plugin.ja"/>
+      <feature id="com.bea.cie.common-plugin.ko"/>
+      <feature id="com.bea.cie.common-plugin.pt.BR"/>
+      <feature id="com.bea.cie.common-plugin.zh.CN"/>
+      <feature id="com.bea.cie.common-plugin.zh.TW"/>
+    </and>
+  </requires>
+</feature-definition>

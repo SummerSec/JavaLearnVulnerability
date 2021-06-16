@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.patch-client.L10N" version="3.3.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <and>
+      <feature id="com.bea.cie.patch-client.de"/>
+      <feature id="com.bea.cie.patch-client.es"/>
+      <feature id="com.bea.cie.patch-client.fr"/>
+      <feature id="com.bea.cie.patch-client.it"/>
+      <feature id="com.bea.cie.patch-client.ja"/>
+      <feature id="com.bea.cie.patch-client.ko"/>
+      <feature id="com.bea.cie.patch-client.pt.BR"/>
+      <feature id="com.bea.cie.patch-client.zh.CN"/>
+      <feature id="com.bea.cie.patch-client.zh.TW"/>
+    </and>
+  </requires>
+</feature-definition>

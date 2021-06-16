@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.cie.config-security" version="1.0.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.oracle.identitystore_1.0.0.0.jar"/>
+    <module file-name="com.oracle.identityutils_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jacc-spi_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-api_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-common_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-ee_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-internal_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-mbeans_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-unsupported-api_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-upgrade_1.0.0.0.jar"/>
+    <module file-name="com.oracle.jps-wls_1.0.0.0.jar"/>
+    <module file-name="com.oracle.oraclepki_1.0.0.0.jar"/>
+    <module file-name="com.oracle.osdt_cert_1.0.0.0.jar"/>
+    <module file-name="com.oracle.osdt_core_1.0.0.0.jar"/>
+    <module file-name="com.oracle.cie.security-wallet_1.0.0.0.jar"/>
+  </modules>
+</feature-definition>

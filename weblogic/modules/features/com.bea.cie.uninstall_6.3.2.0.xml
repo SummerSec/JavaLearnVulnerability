@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.uninstall" version="6.3.2.0" isUninstallable="false" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.cie.uninstall_6.3.0.0.jar"/>
+    <module file-name="com.bea.core.xml.xmlbeans_2.2.0.0.jar"/>
+    <module file-name="javax.xml.stream_1.0.0.0.jar"/>
+    <module file-name="com.bea.cie.wlw-plaf_5.2.0.0.jar"/>
+    <module file-name="com.bea.cie.comdev_6.1.3.0.jar"/>
+    <module file-name="com.bea.cie.wizard_5.7.0.0.jar"/>
+    <module file-name="com.bea.cie.xmldh_2.4.0.0.jar"/>
+    <module file-name="com.bea.cie.gpr_3.0.3.0.jar"/>
+    <module file-name="com.bea.cie.instinfo_5.8.0.0.jar"/>
+    <module file-name="com.bea.cie.paf_1.1.0.0.jar"/>
+    <module file-name="com.bea.cie.oui_1.1.0.0.jar"/>
+  </modules>
+  <requires>
+    <feature id="com.bea.cie.uninstall.L10N"/>
+  </requires>
+</feature-definition>

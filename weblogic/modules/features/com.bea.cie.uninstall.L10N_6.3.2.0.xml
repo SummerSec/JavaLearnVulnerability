@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.uninstall.L10N" version="6.3.2.0" isUninstallable="false" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <and>
+      <feature id="com.bea.cie.uninstall.de"/>
+      <feature id="com.bea.cie.uninstall.es"/>
+      <feature id="com.bea.cie.uninstall.fr"/>
+      <feature id="com.bea.cie.uninstall.it"/>
+      <feature id="com.bea.cie.uninstall.ja"/>
+      <feature id="com.bea.cie.uninstall.ko"/>
+      <feature id="com.bea.cie.uninstall.pt.BR"/>
+      <feature id="com.bea.cie.uninstall.zh.CN"/>
+      <feature id="com.bea.cie.uninstall.zh.TW"/>
+    </and>
+  </requires>
+</feature-definition>

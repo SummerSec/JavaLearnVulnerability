@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.cie.config.fr" version="7.2.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.oracle.cie.config-wls.fr_7.2.0.0.jar"/>
+    <module file-name="com.oracle.cie.config.fr_7.2.0.0.jar"/>
+    <module file-name="com.oracle.cie.wlw-plaf.fr_5.3.0.0.jar"/>
+    <module file-name="com.oracle.cie.comdev.fr_6.4.0.0.jar"/>
+    <module file-name="com.oracle.cie.wizard.fr_6.1.0.0.jar"/>
+  </modules>
+  <extension id="com.bea.cie.gpr.extftr.default" version="7.2.0.0" type="config"/>
+</feature-definition>

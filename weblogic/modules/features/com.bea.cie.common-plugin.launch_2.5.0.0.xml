@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.common-plugin.launch" version="2.5.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <requires>
+    <and>
+      <feature id="com.bea.cie.common-plugin"/>
+      <feature id="com.oracle.cie.config.launch"/>
+    </and>
+  </requires>
+  <extension id="com.bea.cie.gpr.extftr.default" version="2.5.0.0" type="common-plugin-launch"/>
+</feature-definition>

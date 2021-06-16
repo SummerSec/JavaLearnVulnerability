@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.ocm" version="1.0.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.oracle.ocm_1.0.0.0.jar"/>
+  </modules>
+</feature-definition>

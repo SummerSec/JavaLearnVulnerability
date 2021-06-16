@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.common-plugin.pt.BR" version="2.5.1.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.cie.plugin.pt.BR_2.5.1.0.jar"/>
+    <module file-name="com.bea.cie.plugin-wizard.pt.BR_2.5.1.0.jar"/>
+    <module file-name="com.bea.cie.common-plugin.pt.BR_2.5.1.0.jar"/>
+  </modules>
+</feature-definition>

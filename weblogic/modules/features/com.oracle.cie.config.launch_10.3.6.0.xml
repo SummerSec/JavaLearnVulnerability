@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.cie.config.launch" version="10.3.6.0" genClassPathJar="false" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.oracle.cie.config-wls-schema_10.3.6.0.jar"/>
+  </modules>
+  <extension id="com.bea.cie.gpr.extftr.default" version="10.3.6.0" type="config-launch"/>
+</feature-definition>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="weblogic.server.modules.wlsve" version="10.3.6.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--<annotation>
+      <manifest xmlns="http://www.bea.com/ns/cie/manifest">
+        <attribute name="Implementation-Vendor" value="BEA Systems"/>
+        <attribute name="Implementation-Title" value="Oracle WebLogic Server on JRockit Virtual Edition Module Dependencies 10.3 Wed Jun 15 17:54:24 EDT 2011 "/>
+        <attribute name="Source-Repository-Change-Id" value="1407467"/>
+        <attribute name="Source-Repository-URI" value="p4://p4jrep.us.oracle.com:7999://depot/dev/src1036/repository/modules/features"/>
+        <attribute name="Implementation-Version" value="10.3.6.0"/>
+      </manifest>
+    </annotation>-->
+  <modules>
+    <module file-name="com.oracle.vmm.client_1.1.0.0.jar"/>
+    <module file-name="com.oracle.vmm.client.adapter.ovm22.ws_1.1.0.0.jar"/>
+  </modules>
+</feature-definition>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.patch-client.fr" version="3.3.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.cie.patch-common.fr_3.3.0.0.jar"/>
+    <module file-name="com.bea.cie.patch-client.fr_3.3.0.0.jar"/>
+    <module file-name="com.bea.cie.bsu.fr_5.3.1.0.jar"/>
+    <module file-name="com.bea.cie.wlw-plaf.fr_5.2.0.0.jar"/>
+    <module file-name="com.bea.cie.comdev.fr_6.1.3.0.jar"/>
+  </modules>
+</feature-definition>

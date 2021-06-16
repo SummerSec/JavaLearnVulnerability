@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.oracle.cie.config" version="7.2.0.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.core.xml.xmlbeans_2.2.0.0_2-5-1.jar"/>
+    <module file-name="javax.xml.stream_1.1.1.0.jar"/>
+    <module file-name="com.oracle.cie.config-wls_7.2.0.0.jar"/>
+    <module file-name="com.oracle.cie.config_7.2.0.0.jar"/>
+    <module file-name="com.oracle.cie.wlw-plaf_5.3.0.0.jar"/>
+    <module file-name="com.oracle.cie.comdev_6.4.0.0.jar"/>
+    <module file-name="com.oracle.cie.wizard_6.1.0.0.jar"/>
+    <module file-name="com.oracle.cie.xmldh_2.5.0.0.jar"/>
+    <module file-name="com.oracle.cie.gpr_3.1.0.0.jar"/>
+    <module file-name="com.oracle.cie.gpr-impl_3.1.0.0.jar"/>
+    <module file-name="com.oracle.cie.oui_1.3.0.0.jar"/>
+  </modules>
+  <requires>
+    <feature id="com.oracle.cie.config.L10N"/>
+  </requires>
+  <extension id="com.bea.cie.gpr.extftr.default" version="7.2.0.0" type="config"/>
+</feature-definition>

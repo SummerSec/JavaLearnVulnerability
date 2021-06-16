@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.paf" version="1.1.0.0" genClassPathJar="false" isUninstallable="false" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.cie.paf_1.1.0.0.jar"/>
+    <module file-name="com.bea.cie.paf-impl_1.1.0.0.jar"/>
+  </modules>
+  <requires>
+    <feature id="com.bea.cie.patch-client"/>
+  </requires>
+</feature-definition>

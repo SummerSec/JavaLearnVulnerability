@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="weblogic.server.modules.coherence.integration" version="10.3.5.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--<annotation>
+      <manifest xmlns="http://www.bea.com/ns/cie/manifest">
+        <attribute name="Implementation-Vendor" value="BEA Systems"/>
+        <attribute name="Implementation-Title" value="WebLogic Coherence Integration Feature Module 10.3 Wed Dec 1 18:03:08 EST 2010 "/>
+        <attribute name="Source-Repository-Change-Id" value="1380581"/>
+        <attribute name="Source-Repository-URI" value="p4://p4jrep.us.oracle.com:7999://depot/dev/src1035/repository/modules/features"/>
+        <attribute name="Implementation-Version" value="10.3.5.0"/>
+      </manifest>
+    </annotation>-->
+  <modules>
+    <module file-name="com.oracle.core.coherence.integration_1.2.0.0.jar"/>
+  </modules>
+</feature-definition>

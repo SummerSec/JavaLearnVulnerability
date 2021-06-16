@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="com.bea.cie.quickstart" version="10.3.2.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modules>
+    <module file-name="com.bea.cie.wlw-plaf_5.2.0.0.jar"/>
+    <module file-name="com.bea.cie.quickstart_10.3.2.0.jar"/>
+    <module file-name="com.bea.cie.comdev_6.1.0.0.jar"/>
+    <module file-name="com.bea.cie.xmldh_2.4.0.0.jar"/>
+    <module file-name="com.bea.cie.gpr_3.0.0.0.jar"/>
+    <module file-name="com.bea.cie.gpr-impl_3.0.0.0.jar"/>
+  </modules>
+  <extension id="com.bea.cie.gpr.extftr.default" version="10.3.2.0" type="quickstart"/>
+</feature-definition>

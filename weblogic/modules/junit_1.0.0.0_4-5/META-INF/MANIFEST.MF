@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: R27.6.2-20_o-108500-1.6.0_05-20090120-1116-windows-ia32 (B
+ EA Systems, Inc.)
+Implementation-Vendor: BEA Systems
+Implementation-Title: JUnit 1.0 Tue Sep 22 06:46:32 MDT 2009 
+Implementation-Version: 1.0.0.0_4-5
+Source-Repository-Change-Id: 1258456
+Source-Repository-URI: p4://p4jrep.us.oracle.com:7999://depot/dev/wls_
+ cordell/repository/modules
+Depends-On: 
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: junit
+Bundle-Name: junit
+Bundle-Vendor: BEA Systems
+Bundle-Version: 1.0.0.0_4-5
+Export-Package: 
+Source-Repository-Info: Manifest added to support module version contr
+ ol
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature-definition id="weblogic.server.modules.ja" version="10.3.6.0" xmlns="http://www.bea.com/ns/cie/feature" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--<annotation>
+      <manifest xmlns="http://www.bea.com/ns/cie/manifest">
+        <attribute name="Implementation-Vendor" value="BEA Systems"/>
+        <attribute name="Implementation-Title" value="Oracle WebLogic Server Japanese Module Dependencies 10.3 Wed Sep 7 15:57:51 MDT 2011 "/>
+        <attribute name="Source-Repository-Change-Id" value="1423361"/>
+        <attribute name="Source-Repository-URI" value="p4://slci510.us.oracle.com:7999://depot/dev/src1036/repository/modules/features"/>
+        <attribute name="Implementation-Version" value="10.3.6.0"/>
+      </manifest>
+    </annotation>-->
+  <modules>
+    <module file-name="com.bea.core.cache.ja_1.5.0.0.jar"/>
+    <module file-name="com.bea.core.redef.ja_1.6.0.0.jar"/>
+    <module file-name="com.bea.core.monitoring.harvester.api.ja_2.3.0.0.jar"/>
+    <module file-name="com.bea.core.monitoring.harvester.jmx.ja_2.4.0.0.jar"/>
+    <module file-name="com.bea.adaptive.harvester.utils.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.core.http.pubsub.ja_1.7.0.0.jar"/>
+    <module file-name="com.bea.core.kodo.integration.ja_1.7.0.0.jar"/>
+    <module file-name="com.bea.core.logging.ja_1.9.0.0.jar"/>
+    <module file-name="com.bea.mbean.typing.util.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.common.configfwk.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.core.ejbgen.ja_1.1.0.3.jar"/>
+    <module file-name="com.bea.core.datasource6.ja_1.10.0.0.jar"/>
+    <module file-name="com.bea.core.descriptor.j2ee.ja_1.6.0.0.jar"/>
+    <module file-name="com.bea.core.descriptor.wl.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.core.diagnostics.core.ja_2.6.0.0.jar"/>
+    <module file-name="com.bea.core.diagnostics.instrumentor.ja_1.8.0.0.jar"/>
+    <module file-name="com.bea.core.diagnostics.notifications.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.core.diagnostics.snmp.ja_1.5.0.0.jar"/>
+    <module file-name="com.bea.core.i18n.generator.ja_1.5.0.0.jar"/>
+    <module file-name="com.bea.core.i18n.tools.ja_1.4.0.0.jar"/>
+    <module file-name="com.bea.core.jatmi.ja_1.6.0.0.jar"/>
+    <module file-name="com.bea.core.jmspool.ja_1.9.0.0.jar"/>
+    <module file-name="com.bea.core.management.core.ja_2.9.0.1.jar"/>
+    <module file-name="com.bea.core.management.jmx.ja_1.4.2.0.jar"/>
+    <module file-name="com.bea.core.messaging.kernel.ja_1.8.0.0.jar"/>
+    <module file-name="com.oracle.core.weblogic.msgcat.ja_1.2.0.0.jar"/>
+    <module file-name="com.bea.core.resourcepool.ja_1.8.0.0.jar"/>
+    <module file-name="com.bea.core.weblogic.rmi.client.ja_1.11.0.0.jar"/>
+    <module file-name="com.bea.core.weblogic.security.logger.ja_1.6.0.0.jar"/>
+    <module file-name="com.bea.core.weblogic.security.t3.standalone.client.ja_1.2.0.0.jar"/>
+    <module file-name="com.bea.core.weblogic.lifecycle.ja_1.5.0.0.jar"/>
+    <module file-name="com.bea.core.store.ja_1.8.0.0.jar"/>
+    <module file-name="com.bea.core.transaction.ja_2.7.1.0.jar"/>
+    <module file-name="com.bea.web.pubsub.jms.ja_1.5.0.0.jar"/>
+    <module file-name="com.bea.core.weblogic.workmanager.ja_1.11.0.0.jar"/>
+    <module file-name="com.bea.core.common.engine.impl.ja_1.0.0.0_6-2-0-0.jar"/>
+    <module file-name="com.bea.core.common.security.i18n.ja_1.0.0.0_6-2-0-0.jar"/>
+    <module file-name="com.bea.core.common.security.impl.ja_1.0.0.0_6-2-0-0.jar"/>
+    <module file-name="com.bea.core.common.security.saml2.ja_1.0.0.0_6-2-0-0.jar"/>
+  </modules>
+</feature-definition>
